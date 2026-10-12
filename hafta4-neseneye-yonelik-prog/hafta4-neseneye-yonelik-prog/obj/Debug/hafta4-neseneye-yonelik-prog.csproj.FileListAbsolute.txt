@@ -1,0 +1,16 @@
+C:\Users\metin\source\repos\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\bin\Debug\hafta4-neseneye-yonelik-prog.exe.config
+C:\Users\metin\source\repos\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\bin\Debug\hafta4-neseneye-yonelik-prog.exe
+C:\Users\metin\source\repos\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\bin\Debug\hafta4-neseneye-yonelik-prog.pdb
+C:\Users\metin\source\repos\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\obj\Debug\hafta4-neseneye-yonelik-prog.csproj.AssemblyReference.cache
+C:\Users\metin\source\repos\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\obj\Debug\hafta4-neseneye-yonelik-prog.csproj.CoreCompileInputs.cache
+C:\Users\metin\source\repos\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\obj\Debug\hafta4-neseneye-yonelik-prog.exe
+C:\Users\metin\source\repos\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\obj\Debug\hafta4-neseneye-yonelik-prog.pdb
+C:\Users\metin\source\repos\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\obj\Debug\hafta4-neseneye-yonelik-prog.exe.config
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\bin\Debug\hafta4-neseneye-yonelik-prog.exe.config
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\bin\Debug\hafta4-neseneye-yonelik-prog.exe
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\bin\Debug\hafta4-neseneye-yonelik-prog.pdb
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\obj\Debug\hafta4-neseneye-yonelik-prog.csproj.AssemblyReference.cache
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\obj\Debug\hafta4-neseneye-yonelik-prog.exe.config
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\obj\Debug\hafta4-neseneye-yonelik-prog.csproj.CoreCompileInputs.cache
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\obj\Debug\hafta4-neseneye-yonelik-prog.exe
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta4-neseneye-yonelik-prog\hafta4-neseneye-yonelik-prog\obj\Debug\hafta4-neseneye-yonelik-prog.pdb

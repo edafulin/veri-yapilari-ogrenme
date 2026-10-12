@@ -1,0 +1,7 @@
+﻿  pointer-calisma2.c
+C:\Users\metin\source\repos\pointer--calismaa\pointer--calismaa\pointer-calisma2.c(11,8): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int **'
+C:\Users\metin\source\repos\pointer--calismaa\pointer--calismaa\pointer-calisma2.c(11,8): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int **'
+C:\Users\metin\source\repos\pointer--calismaa\pointer--calismaa\pointer-calisma2.c(12,8): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\metin\source\repos\pointer--calismaa\pointer--calismaa\pointer-calisma2.c(12,8): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\metin\source\repos\pointer--calismaa\pointer--calismaa\pointer-calisma2.c(10,7): warning C4047: 'initializing': 'int **' differs in levels of indirection from 'int *'
+  pointer--calismaa.vcxproj -> C:\Users\metin\source\repos\pointer--calismaa\x64\Debug\pointer--calismaa.exe

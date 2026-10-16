@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\temel-pointer-kavrami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98163EAB-FCA1-49B7-91F8-6D0D2C462778}|temel-pointer-kavrami\\temel-pointer-kavrami.vcxproj|C:\\Users\\metin\\source\\repos\\temel-pointer-kavrami\\temel-pointer-kavrami\\1.pointer-kavrami.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98163EAB-FCA1-49B7-91F8-6D0D2C462778}|temel-pointer-kavrami\\temel-pointer-kavrami.vcxproj|solutionrelative:temel-pointer-kavrami\\1.pointer-kavrami.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.pointer-kavrami.cpp",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\temel-pointer-kavrami\\temel-pointer-kavrami\\1.pointer-kavrami.cpp",
+              "RelativeDocumentMoniker": "temel-pointer-kavrami\\1.pointer-kavrami.cpp",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\temel-pointer-kavrami\\temel-pointer-kavrami\\1.pointer-kavrami.cpp",
+              "RelativeToolTip": "temel-pointer-kavrami\\1.pointer-kavrami.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T18:45:26.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

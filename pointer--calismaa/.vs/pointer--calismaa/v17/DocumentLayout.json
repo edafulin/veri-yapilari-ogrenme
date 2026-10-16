@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\pointer--calismaa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB327E00-301D-489B-A8E3-7DD5D7C218F3}|pointer--calismaa\\pointer--calismaa.vcxproj|C:\\Users\\metin\\source\\repos\\pointer--calismaa\\pointer--calismaa\\pointer-calisma2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB327E00-301D-489B-A8E3-7DD5D7C218F3}|pointer--calismaa\\pointer--calismaa.vcxproj|solutionrelative:pointer--calismaa\\pointer-calisma2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pointer-calisma2.c",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\pointer--calismaa\\pointer--calismaa\\pointer-calisma2.c",
+              "RelativeDocumentMoniker": "pointer--calismaa\\pointer-calisma2.c",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\pointer--calismaa\\pointer--calismaa\\pointer-calisma2.c",
+              "RelativeToolTip": "pointer--calismaa\\pointer-calisma2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-01T17:25:29.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

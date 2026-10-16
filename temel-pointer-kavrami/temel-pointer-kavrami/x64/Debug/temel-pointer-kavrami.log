@@ -1,0 +1,14 @@
+﻿  1.pointer-kavrami.cpp
+C:\Users\metin\source\repos\temel-pointer-kavrami\temel-pointer-kavrami\1.pointer-kavrami.cpp(30,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'
+C:\Users\metin\source\repos\temel-pointer-kavrami\temel-pointer-kavrami\1.pointer-kavrami.cpp(30,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'void *'
+C:\Users\metin\source\repos\temel-pointer-kavrami\temel-pointer-kavrami\1.pointer-kavrami.cpp(40,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\metin\source\repos\temel-pointer-kavrami\temel-pointer-kavrami\1.pointer-kavrami.cpp(40,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\metin\source\repos\temel-pointer-kavrami\temel-pointer-kavrami\1.pointer-kavrami.cpp(45,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+      C:\Users\metin\source\repos\temel-pointer-kavrami\temel-pointer-kavrami\1.pointer-kavrami.cpp(45,9):
+      consider using '%lld' in the format string
+      C:\Users\metin\source\repos\temel-pointer-kavrami\temel-pointer-kavrami\1.pointer-kavrami.cpp(45,9):
+      consider using '%Id' in the format string
+      C:\Users\metin\source\repos\temel-pointer-kavrami\temel-pointer-kavrami\1.pointer-kavrami.cpp(45,9):
+      consider using '%I64d' in the format string
+  
+  temel-pointer-kavrami.vcxproj -> C:\Users\metin\source\repos\temel-pointer-kavrami\x64\Debug\temel-pointer-kavrami.exe

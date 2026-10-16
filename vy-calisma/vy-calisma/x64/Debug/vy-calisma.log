@@ -1,8 +1,0 @@
-﻿  vy-calisma.c
-C:\Users\metin\source\repos\vy-calisma\vy-calisma\vy-calisma.c(13,10): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
-C:\Users\metin\source\repos\vy-calisma\vy-calisma\vy-calisma.c(13,10): warning C4024: 'printf': different types for formal and actual parameter 1
-C:\Users\metin\source\repos\vy-calisma\vy-calisma\vy-calisma.c(15,10): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
-C:\Users\metin\source\repos\vy-calisma\vy-calisma\vy-calisma.c(15,10): warning C4024: 'printf': different types for formal and actual parameter 1
-C:\Users\metin\source\repos\vy-calisma\vy-calisma\vy-calisma.c(17,9): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
-C:\Users\metin\source\repos\vy-calisma\vy-calisma\vy-calisma.c(17,9): warning C4024: 'printf': different types for formal and actual parameter 1
-  vy-calisma.vcxproj -> C:\Users\metin\source\repos\vy-calisma\x64\Debug\vy-calisma.exe

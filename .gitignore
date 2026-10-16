@@ -5,3 +5,5 @@ x64/
 # Çalıştırılabilir ve ara dosyalar
 *.sln
 *.vcxproj
+*.filters
+*.user

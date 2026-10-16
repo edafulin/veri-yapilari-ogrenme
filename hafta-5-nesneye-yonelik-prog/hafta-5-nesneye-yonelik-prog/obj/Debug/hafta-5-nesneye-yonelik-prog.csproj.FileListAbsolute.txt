@@ -1,0 +1,8 @@
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta-5-nesneye-yonelik-prog\hafta-5-nesneye-yonelik-prog\bin\Debug\hafta-5-nesneye-yonelik-prog.exe.config
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta-5-nesneye-yonelik-prog\hafta-5-nesneye-yonelik-prog\bin\Debug\hafta-5-nesneye-yonelik-prog.exe
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta-5-nesneye-yonelik-prog\hafta-5-nesneye-yonelik-prog\bin\Debug\hafta-5-nesneye-yonelik-prog.pdb
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta-5-nesneye-yonelik-prog\hafta-5-nesneye-yonelik-prog\obj\Debug\hafta-5-nesneye-yonelik-prog.csproj.AssemblyReference.cache
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta-5-nesneye-yonelik-prog\hafta-5-nesneye-yonelik-prog\obj\Debug\hafta-5-nesneye-yonelik-prog.csproj.CoreCompileInputs.cache
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta-5-nesneye-yonelik-prog\hafta-5-nesneye-yonelik-prog\obj\Debug\hafta-5-nesneye-yonelik-prog.exe
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta-5-nesneye-yonelik-prog\hafta-5-nesneye-yonelik-prog\obj\Debug\hafta-5-nesneye-yonelik-prog.pdb
+C:\Users\metin\OneDrive\Desktop\veri-yapilari-ogrenme\hafta-5-nesneye-yonelik-prog\hafta-5-nesneye-yonelik-prog\obj\Debug\hafta-5-nesneye-yonelik-prog.exe.config

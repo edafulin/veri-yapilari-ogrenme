@@ -1,14 +1,7 @@
 # Visual Studio gizli klasörü
 .vs/
-
 # Derleme çıktıları ve klasörleri
 x64/
-Debug/
-Release/
-
 # Çalıştırılabilir ve ara dosyalar
-*.exe
-*.obj
-*.pdb
-*.ilk
-*.idb
+*.sln
+*.vcxproj
